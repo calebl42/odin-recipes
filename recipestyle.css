@@ -1,0 +1,87 @@
+* {
+  background-color: rgb(252, 235, 214);
+}
+
+html {
+  border: 10px solid orange;
+}
+
+h1 {
+  font-family: 'Trebuchet MS';
+  font-weight: bold;
+  font-size: 70px;
+  color: #df70df;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+  color: #df70df;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #df70df;
+}
+
+ul.main-page-list {
+  font-family: 'Trebuchet MS';
+  font-size: 30px;  
+  color: #df70df;
+  display: inline-block;
+  text-align: left;
+  margin-bottom: 500px;
+}
+
+li {
+  margin-bottom: 50px;
+}
+
+.list-element {
+  color: #d0820f;
+}
+
+div.container {
+  text-align: center;
+}
+
+.return-home {
+  font-family: 'Trebuchet MS';
+  font-size: 27px;  
+  color: #801580;
+  display: block;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.food-pic {
+  text-align: center;
+}
+
+.main-content {
+  font-family: 'Trebuchet MS';
+  font-size: 25px;  
+  color: #801580;
+  margin: auto;
+  text-align: center;
+  padding: 30px;
+}
+
+.main-content ul, 
+.main-content ol {
+  display: inline-block;
+  text-align: left;
+  border: 5px solid orange;
+  padding: 0px 20px 30px 50px;
+  margin-right: 20px;
+  margin-bottom: 100px;
+}
+
+.description {
+  padding: 10px 300px;
+  margin: 10px 10px 50px;
+}
