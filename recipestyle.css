@@ -4,6 +4,7 @@
 
 html {
   border: 10px solid orange;
+  min-height: 100vh;
 }
 
 h1 {
@@ -84,4 +85,15 @@ div.container {
 .description {
   padding: 10px 300px;
   margin: 10px 10px 50px;
+}
+
+.container ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
 }
